@@ -29,28 +29,28 @@ FONT_FILE_TO_USEE = "userbot/helpers/styles/digital.ttf"
 
 # Add telegraph media links of profile pics that are to be used
 TELEGRAPH_MEDIA_LINKS = [
-    "https://telegra.ph/file/2eab4f64ead6fbf41bf87.jpg",
-    "https://telegra.ph/file/6bef1ffbaddc5230c2ae1.jpg",
-    "https://telegra.ph/file/a03f035e83098a7c5bded.jpg",
-    "https://telegra.ph/file/f0a230a30b9952f56d2cd.jpg",
-    "https://telegra.ph/file/d00e6bb4b4a483099c992.jpg",
-    "https://telegra.ph/file/1270ed675db61e6c84eea.jpg",
-    "https://telegra.ph/file/32743c9389915b02fdea7.jpg",
-    "https://telegra.ph/file/8c02a1430502bea931ff7.jpg",
-    "https://telegra.ph/file/1ec37d367bb59ac56131d.jpg",
-    "https://telegra.ph/file/e9aeef4fd2e3d0b9e9f24.jpg",
-    "https://telegra.ph/file/28c242ea9f8cf32db4c21.jpg",
-    "https://telegra.ph/file/c089426ca031d1f6297b0.jpg",
-    "https://telegra.ph/file/a196b6c07f0a659daf058.jpg",
-    "https://telegra.ph/file/69f19acd13b1eaf3fc120.jpg",
+    "https://telegra.ph/file/df7bf62434a0f63726e91.jpg",
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
 
 TELEGRAPH_MEDIA_LINKSS = [
-    "https://telegra.ph/file/b2cea1712ebaca603e6f4.jpg",
+    "https://telegra.ph/file/df7bf62434a0f63726e91.jpg",
 ]
 
 TELEGRAPH_MEDIA_LINKSSS = [
-    "https://telegra.ph/file/b20273be27aeea4e8fcac.jpg",
+"https://telegra.ph/file/df7bf62434a0f63726e91.jpg",
 ]
 
 
@@ -160,7 +160,7 @@ async def _(event):
     while True:
         DMY = time.strftime("%d.%m.%y")
         HM = time.strftime("%H:%M")
-        name = f"{HM}🔥Տմɾѵíѵօɾ🔥{DMY}"
+        name = f"{HM}𝔼𝐌ⓟ𝓣ㄚ*∞{DMY}"
         logger.info(name)
         try:
             await borg(
